@@ -1,1 +1,8 @@
-# CS-255
+# CS 255 Module Eight Journal Submission
+The DriverPass project aimed to create a system that provides users with online driving resources, including practice exams and scheduling tools for on-the-road training. The client, DriverPass, sought a user-friendly platform to bridge the gap in driver education and help students improve their chances of passing DMV exams. The system needed to cater to multiple users, including customers, administrators, and secretaries, while ensuring seamless interaction and robust functionality.
+
+One aspect I feel I did particularly well was translating the client’s requirements into clear and actionable design elements in the business requirements document. By focusing on user needs and system goals, I ensured the design addressed both technical and functional aspects. If I could revise one part of my work, I would enhance the Gantt chart by providing more detailed timelines and milestones, which would make the project’s scope and progress tracking more precise.
+
+To interpret the user’s needs, I thoroughly analyzed the interview transcript and translated the client’s requests into functional and nonfunctional requirements. This approach ensured the system design aligned with their expectations. Considering user needs is crucial in system design because it ensures the product is intuitive, meets expectations, and provides value to its users.
+
+My approach to designing software involves gathering and analyzing requirements, creating clear documentation, and utilizing tools like UML diagrams to visualize system interactions. In the future, I plan to incorporate more iterative strategies, such as agile methodologies, to continuously refine and validate the design based on user feedback and evolving requirements.
